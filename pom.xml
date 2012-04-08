@@ -10,7 +10,7 @@
 
 	<groupId>com.barchart.wrap</groupId>
 	<artifactId>barchart-wrap-json</artifactId>
-	<version>1.0.0-build001</version>
+	<version>1.0.0-build002-SNAPSHOT</version>
 	<packaging>bundle</packaging>
 
 	<description>
