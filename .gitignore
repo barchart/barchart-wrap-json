@@ -1,0 +1,14 @@
+
+.project
+.classpath
+.settings/
+
+*.java
+
+bin/
+log/
+logs/
+target/
+
+release.properties
+pom.xml.releaseBackup
